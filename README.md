@@ -2,7 +2,7 @@
 
 ![Flocking](imgs/flocking.png)
 
-Public code repository for the paper ``Model-free learning of probability flows: Elucidating the nonequilibrium dynamics of flocking" (https://arxiv.org/abs/2411.14317).
+Public code repository for the paper "Model-free learning of probability flows: Elucidating the nonequilibrium dynamics of flocking" (https://arxiv.org/abs/2411.14317).
 
 This repository contains an implementation of the learning algorithm, code for dataset generation, and an API for generating data from common active matter systems such as active OU and Vicsek particles.
 
